@@ -93,14 +93,14 @@ Max level: 30
 Weight: 8
 
 Name: L1_Cry_128x64
-Min butthurt: 0
+Min butthurt: 10
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
 Name: L1_Leaving_sad_128x64
-Min butthurt: 14
+Min butthurt: 13
 Max butthurt: 14
 Min level: 1
 Max level: 30
@@ -114,8 +114,8 @@ Max level: 30
 Weight: 3
 
 Name: L2_Furippa2_128x64
-Min butthurt: 2
-Max butthurt: 2
+Min butthurt: 0
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
